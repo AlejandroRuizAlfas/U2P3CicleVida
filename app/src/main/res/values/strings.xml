@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">P0_HelloWorld</string>
+    <string name="dev_name">Alejandro Ruiz Alfas</string>
+    <string name="tvWelcome">Welcome to my First Android App</string>
+    <string name="btNext_activity">Next Activity</string>
+    <string name="btNext_activity2">Next Activity 2</string>
+</resources>
